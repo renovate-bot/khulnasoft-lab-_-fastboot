@@ -9,6 +9,6 @@ require (
 	github.com/shurcooL/githubv4 v0.0.0-20231126234147-1cffa1f02456
 	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466 // indirect
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.16.0
-	golang.org/x/oauth2 v0.16.0
+	github.com/spf13/viper v1.19.0
+	golang.org/x/oauth2 v0.18.0
 )
