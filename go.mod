@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.6
 
 require (
-	github.com/google/go-github/v25 v25.1.3
+	github.com/google/go-github/v74 v74.0.0
 	github.com/google/go-github/v74 v74.0.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/shurcooL/githubv4 v0.0.0-20231126234147-1cffa1f02456
