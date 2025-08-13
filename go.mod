@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/fastboot
 
 go 1.23.0
 
-toolchain go1.24.6
+toolchain go1.25.0
 
 require (
 	github.com/google/go-github/v25 v25.1.3
