@@ -8,7 +8,7 @@ require (
 	github.com/google/go-github/v25 v25.1.3
 	github.com/google/go-github/v74 v74.0.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/shurcooL/githubv4 v0.0.0-20231126234147-1cffa1f02456
+	github.com/shurcooL/githubv4 v0.0.0-20240727222349-48295856cce7
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.16.0
 	golang.org/x/oauth2 v0.16.0
