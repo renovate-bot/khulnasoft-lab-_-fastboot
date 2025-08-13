@@ -11,7 +11,7 @@ require (
 	github.com/shurcooL/githubv4 v0.0.0-20231126234147-1cffa1f02456
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.16.0
-	golang.org/x/oauth2 v0.16.0
+	golang.org/x/oauth2 v0.27.0
 )
 
 require (
@@ -42,7 +42,7 @@ require (
 	cloud.google.com/go/clouddms v1.5.0 // indirect
 	cloud.google.com/go/cloudtasks v1.10.0 // indirect
 	cloud.google.com/go/compute v1.20.1 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	cloud.google.com/go/contactcenterinsights v1.6.0 // indirect
 	cloud.google.com/go/container v1.15.0 // indirect
 	cloud.google.com/go/containeranalysis v0.9.0 // indirect
